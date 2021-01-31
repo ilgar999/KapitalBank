@@ -15,7 +15,7 @@ public class BrowserUtils {
         try {
             Thread.sleep(second);
         } catch (InterruptedException e) {
-            System.out.println("Soething happend in the method");
+            System.out.println("Something happend in the method");
         }
     }
 
